@@ -1,0 +1,16 @@
+{
+  "name": "com.helvest.customcoroutine",
+  "version": "1.0.0",
+  "displayName": "Custom Coroutine",
+  "description": "Coroutine class easy to manipulate",
+  "keywords": [
+    "Coroutine",
+    "Class",
+    "Custom"
+  ],
+  "author": {
+    "name": "Pedro Dominic\u00e9 (Helvest)",
+    "url": "https://twitter.com/HelvestEpic"
+  },
+  "type": "tool"
+}
