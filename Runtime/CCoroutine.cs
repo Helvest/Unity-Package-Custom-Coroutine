@@ -6,7 +6,7 @@ namespace CustomCoroutine
 	public class CCoroutine : IEnumerator
 	{
 
-		#region Variables
+		#region Fields
 
 		private readonly Func<IEnumerator> _coroutineSaved;
 		private IEnumerator _coroutine;
